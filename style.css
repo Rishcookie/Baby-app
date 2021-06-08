@@ -1,0 +1,43 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+
+body{
+    background-position: center;
+    background-size: cover;
+  
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+ 
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height:3;
+    text-align: center;
+}
+
+
+p{
+    margin-top: 500px;
+    text-align: center;
+    background-color: white;
+    font-size: 18px;
+}
